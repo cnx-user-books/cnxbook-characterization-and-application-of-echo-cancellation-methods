@@ -1,0 +1,65 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11468</md:content-id>
+  <md:title>Characterization and Application of Echo Cancellation Methods</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  <md:uuid>011e87df-5163-40b6-8ea9-19b32d970404</md:uuid>
+<md:slug>characterization-and-application-of-echo-cancellation-methods</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m45382"/>
+        
+      
+    
+    
+      <col:module document="m45387"/>
+        
+      
+    
+    
+      <col:module document="m45389"/>
+        
+      
+    
+    
+      <col:module document="m45392"/>
+        
+      
+    
+    
+      <col:module document="m45384"/>
+        
+      
+    
+    
+      <col:module document="m45383"/>
+        
+      
+    
+    
+      <col:module document="m45385"/>
+        
+      
+    
+    
+      <col:module document="m45386"/>
+        
+      
+    
+    
+      <col:module document="m45388"/>
+        
+      
+    
+  </col:content>
+</col:collection>
